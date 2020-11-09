@@ -1,6 +1,6 @@
 # Machine Learning Deployment using AWS SageMaker
 
-This repository contains my submition to the Deployment Project, submited to be reviewed by Udacity's team.
+This repository contains my submission to the Deployment Project, submited to be reviewed by Udacity's team.
 
 ## Table Of Contents
 
